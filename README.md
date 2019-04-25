@@ -11,8 +11,11 @@ Using Unsupervised Learning to categorize customers into segments
 This project requires Python 3 and needs to install the following python packages:
 
 *NumPy*
+
 *Pandas*
+
 *Scikit-learn*
+
 You also need to install the appropriate software to run Jupyter Notebook(eg: Anaconda).
 
 On the command line, make sure you are in the current directory where the dataset and cloned files were downloaded 
